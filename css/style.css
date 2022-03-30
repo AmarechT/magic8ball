@@ -1,0 +1,37 @@
+
+
+body{
+    
+
+    background-color: cornflowerblue;
+}
+#container{
+    margin-left: 600px;
+}
+#error{
+    color: black;
+    margin-left: auto;
+
+    
+}
+.title{
+    color:cornsilk
+}
+.any{
+    color: cornsilk;
+    font-size: 20px;
+}
+button {
+  color:black;
+  padding: 15px 170px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 26px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #4CAF50;
+}
+.link{
+    color: white;
+    font-size: 30px;
+}
